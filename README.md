@@ -1,4 +1,4 @@
-#🔐 Password Encryption and Decryption Using Java
+##🔐 Password Encryption and Decryption Using Java
 
 ## 📌 Project Description
 This project demonstrates a **simple password encryption and decryption system using Java**.  
