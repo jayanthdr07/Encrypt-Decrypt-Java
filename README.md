@@ -1,4 +1,4 @@
-rfrfrf# 🔐 Password Encryption and Decryption Using Java
+rfrfrfrfrf# 🔐 Password Encryption and Decryption Using Java
 
 ## 📌 Project Description
 This project demonstrates a **simple password encryption and decryption system using Java**.  
