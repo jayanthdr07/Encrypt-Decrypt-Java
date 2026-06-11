@@ -1,5 +1,5 @@
 ### 🔐 Password Encryption and Decryption Using JAVA
-
+---
 ## 📌 Project Description
 This project demonstrates a **simple password encryption and decryption system using Java**.  
 The user-entered password is converted into an **encrypted format** to protect it from being read directly and is later **decrypted back** to its original form.
