@@ -34,6 +34,7 @@ The entire logic is implemented **inside the `main()` method without using any u
 - Loops and type casting
 
 ---
+
 ## ✅ Features
 - Simple and easy-to-understand logic
 - Beginner-friendly implementation
