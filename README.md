@@ -1,4 +1,4 @@
-## 🔐 Password Encryption and Decryption Using JAVA.
+## 🔐 Password Encryption and Decryption Using JAVA
 
 ---
 
