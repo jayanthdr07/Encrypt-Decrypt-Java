@@ -50,3 +50,9 @@ The entire logic is implemented **inside the `main()` method without using any u
 - Demonstration of encryption concepts
 
 ---
+
+## 👨‍💻 Author
+
+**Jayanth D R**  
+
+---
